@@ -1,6 +1,6 @@
-   //Gets an assending array of numbers (Negative+Positive) and find the loweset absolute sum of 2 numbers
-   //Time complexity = O(n)
-   //Space complexity = O(1)
+//Gets an assending array of numbers (Negative+Positive) and find the loweset absolute sum of 2 numbers
+//Time complexity = O(n)
+//Space complexity = O(1)
    
 public static int minAbsSum(int [] a)
 {
